@@ -13,3 +13,15 @@ tyButton.addEventListener('click', function() {
 byeButton.addEventListener('click', function() {
   document.getElementById("BYE").play()
 })
+
+ohButton.addEventListener('mouseenter', function() {
+  document.getElementById("OH").play()
+})
+
+tyButton.addEventListener('mouseenter', function() {
+  document.getElementById("TY").play()
+})
+
+byeButton.addEventListener('mouseenter', function() {
+  document.getElementById("BYE").play()
+})
